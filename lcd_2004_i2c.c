@@ -156,7 +156,7 @@ int main() {
                 lcd_set_cursor(line, (MAX_CHARS / 2) - strlen(message[m + line]) / 2);
                 lcd_string(message[m + line]);
             }
-            sleep_ms(2000);
+            sleep_ms(4000);
             lcd_clear();
         }
     }
