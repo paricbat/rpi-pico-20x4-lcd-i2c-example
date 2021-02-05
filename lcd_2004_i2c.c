@@ -16,7 +16,7 @@
    GPIO (and therefor I2C) cannot be used at 5v.
 
    You will need to use a level shifter on the I2C lines if you want to run the
-   board at 5v.
+   board at 5v, otherwise it will still work, but it will be dimmer than usual.
 
    Connections on Raspberry Pi Pico board, other boards may vary.
 
