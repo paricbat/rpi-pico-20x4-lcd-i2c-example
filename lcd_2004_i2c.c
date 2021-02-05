@@ -147,7 +147,7 @@ int main() {
                     "A brand new", "microcontroller",
                     "Twin core M0", "Full C SDK",
                     "More power in", "your product",
-                    "More beans", "than Heinz!"
+                    "More beans", "than Heinz!","  ","  "
             };
 
     while (1) {
