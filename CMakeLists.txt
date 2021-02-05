@@ -7,7 +7,7 @@ project(blink)
 pico_sdk_init()
 
 add_executable(lcd_2004_i2c
-        lcd_20004_i2c.c
+        lcd_2004_i2c.c
         )
 
 # Pull in our (to be renamed) simple get you started dependencies
