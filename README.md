@@ -3,4 +3,4 @@
 
 You can compile this using the compile.sh script.
 
-I used the lcd_1602_i2c example for the source, you can find it [here](https://github.com/raspberrypi/pico-examples/tree/master/i2c/lcd_1602_i2c).
+I used the `lcd_1602_i2c` example for the source code, you can find it [here](https://github.com/raspberrypi/pico-examples/tree/master/i2c/lcd_1602_i2c).
